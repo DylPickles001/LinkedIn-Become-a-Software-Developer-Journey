@@ -11,4 +11,6 @@ Here, I'll explain my objective through this ordeal. LinkedIn Learning Path is o
 
 (Order of included learning material):
 
-1. guessgame.py (Section 4 Challenge)
+1. guessgame.py (Programming Foundations: Fundamentals Section 4 Challenge)
+
+2. favoritecity.py (Programming Foundations: Fundamentals Section 5 Challenge)
