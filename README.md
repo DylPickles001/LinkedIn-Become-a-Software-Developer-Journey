@@ -1,5 +1,6 @@
 # LinkedIn Become a Software Developer Journey
  My journey through the LinkedIn Software Developer learning path.
+
 Link to learning path: https://www.linkedin.com/learning/paths/become-a-software-developer
 
 (Here is my first edit on the README.md file)
