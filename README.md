@@ -19,4 +19,6 @@ Here, I'll explain my objective through this ordeal. LinkedIn Learning Path is o
 
 **Started Course 2 of 11 (Programming Foundations: Databases) on September 19, 2020
 
-1. IntroToDatabases.txt (Programming Foundations: Databases - Introduction)
+1. IntroToDatabases.txt (Programming Foundations: Databases - Introduction Notes)
+
+2. DatabaseFoundations.txt (Programming Foundations: Databases - Section 1 Notes)

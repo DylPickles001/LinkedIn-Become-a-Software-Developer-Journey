@@ -1,0 +1,61 @@
+Course- Programming Foundations: Databases
+Link to Course- https://www.linkedin.com/learning/programming-foundations-databases-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ebaefdc498e440b07b53ea1
+
+Video 1: Relational Databases (2 min)
+Relational- organizes data into relations (set of columns of related data)
+Ex: List of customers (Customer = Entity), shared attributes (name, email, phone number)
+Tables - set of columns and contains rows (Have a defined type); Column data type
+
+Video 2: Keys and Unique Values (2 min)
+Read and access data in database. Unique values appear only once in a column. 
+Primary Key, Synthetic/Surrogate Key, Composite Key, Foreign Key
+
+Video 3: Relationships (2 min)
+3 types- 1) One to many, 2) many to many, 3) one to one
+*One to many is most common
+
+*One to one relationship - (Not as common) only 1 record on 1 table to another record on annother table
+
+Video 4: ACID and Transactions (3 min)
+Transaction example
+ACID- Atomic, Consistent, Isolated, Durable
+*Characteristics of transactions
+
+Video 5: Basic SQL (4 min)
+SQL- Structured Querey Language
+RDBMS (Relational Database Management System) Support SQL
+SQL- data manipulation Language
+*data definition
+SQL statement- clause, predicate, expression
+
+"Show me the first name and last name for every record in the Customers table please"
+
+Ex: SELECT FirstName, LastName FROM Customers;
+                                    (field)
+
+CRUD (Create, Read, Update, Delete)
+
+Chapter Quiz (10 Questions)
+1. A relationship connects two pieces of data in different _____ in the same _____.
+    -tables; database
+2. What would you use a relationship to connect?
+    -a customer with their favorite table in the restaurant
+    (Example of a one-to-many relationship, For every one table, there could be many customers who prefer to sit at it. But one customer cannot have many favorite tables.)
+3. In the ACID model, which term represents the fact that a transaction can't be divided into smaller parts?
+    -atomic
+    (Consistency- integrity of data)
+4. What does the term transaction mean?
+    -all of the steps for an action must be completed
+5. What does the "R" in CRUD stand for?
+    -read
+6. A unique value _____.
+    -occurs only once in a given column
+7. SQL is _____.
+    -the language you use to communicate with a database
+8. In a database, what is a relation?
+    -a set of attributes (columns) that describe information about specific instances (rows) of an entity
+9. Which of these images indicates a row in a table?
+    -Image would have a horizontal row entirely shaded
+10. Which is a good example of a candidate key?
+    -an employee ID number
+    (Any piece of data that uniquely represents a row is a candidate key, and if you have a value that occurs in the data naturally, that's a natural key.)
