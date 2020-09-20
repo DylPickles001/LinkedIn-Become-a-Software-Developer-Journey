@@ -22,3 +22,5 @@ Here, I'll explain my objective through this ordeal. LinkedIn Learning Path is o
 1. IntroToDatabases.txt (Programming Foundations: Databases - Introduction Notes)
 
 2. DatabaseFoundations.txt (Programming Foundations: Databases - Section 1 Notes)
+
+3. Tables.txt (Programming Foundations: Databases - Section 2 Notes)

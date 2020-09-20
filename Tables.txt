@@ -1,0 +1,14 @@
+Course- Programming Foundations: Databases
+Link to Course- https://www.linkedin.com/learning/programming-foundations-databases-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ebaefdc498e440b07b53ea1
+
+Video 1: Modeling and planning a database (2 min)
+
+Video 2: Naming Tables (1 min)
+
+Video 3: Columns and Data Types (3 min)
+
+Video 4: Numbers and Other Types 
+
+Video 5: Primary and Foreign Keys
+
+Chapter Quiz (10 Questions)
