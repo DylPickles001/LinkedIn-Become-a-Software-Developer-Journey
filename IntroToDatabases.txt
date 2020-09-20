@@ -1,0 +1,36 @@
+Course- Programming Foundations: Databases
+Link to Course- https://www.linkedin.com/learning/programming-foundations-databases-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ebaefdc498e440b07b53ea1
+
+Video 1: Why use a database? (1 min)
+Databases allow to work with large amounts of data, provide security, and reduce redundancy.
+*Relational database focused.
+
+Video 2: What you should know
+Databases in this course are discussed in general.
+
+Video 3: Understanding databases: Benefits of spreadsheets
+DB gives way to structure data. - Gives tools to protect data
+*Example- notecards with info/ invitations
+(Spreadsheets- provide structure for data)
+(Specific data can be organized in rows/columns)
+
+Video 4: Understanding databases: Benefits of structured data
+Tables- collection of rows and columns ("building blocks of databases")
+Database- can contain > 1 tables
+*Provide structure, allow enforcement of rules for data
+*Can protect data from unauthorized access/changes
+
+Chapter Quiz (4 questions)-
+1. What is one advantage of using a spreadsheet to store data?
+- It can help you see gaps in the data.
+
+2. When you move data from an unstructured form to a structured form, what benefit do you gain?
+- All of these answers
+(Structured form of data provides several benefits compared to unstructured data)
+
+3. When you store data in a database, what is one advantage you get over a plain spreadsheet?
+- Rows of data can be associated with each other across tables.
+(While some spreadsheets can simulate this capability with lookup functions, the ability to create relationships between tables is a core function of relational databases.)
+
+4. The definition of how data in a database will be organized is called the _____.
+- schema
